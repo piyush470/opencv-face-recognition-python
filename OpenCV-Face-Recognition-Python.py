@@ -46,7 +46,7 @@ import numpy as np
 
 # As OpenCV face recognizer accepts labels as integers so we need to define a mapping between integer labels and persons actual names so below I am defining a mapping of persons integer labels and their respective names. 
 # 
-# **Note:** As we have not assigned `label 0` to any person so **the mapping for label 0 is empty**. 
+# ***Note:*** As we have not assigned `label 0` to any person so **the mapping for label 0 is empty**. 
 
 # In[2]:
 
